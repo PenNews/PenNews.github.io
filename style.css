@@ -1,0 +1,61 @@
+*{
+               margin: 0;
+               padding: 0;
+          }
+          
+          body{
+               font-family: sans-serif;
+          }
+          
+          .header{
+               height: 60px;
+               width: 100%;
+               /*
+               background-image: URL();
+               */
+               background-color: red;
+               position: fixed;
+          }
+
+          .logo{
+               height: 30px;
+               padding: 13px;
+               cursor: pointer;
+          }
+
+          .noticia{
+               padding: 15px;
+          }
+          
+          .missao{
+               color: #000;
+               font-size: 32px;
+               margin-top: 80px;
+          }
+          
+          .ler{
+               width: 250px;
+               height: 40px;
+               border: none;
+               border-radius: 3px;
+               color: #fff;
+               background-color: red;
+               font-weight: bold;
+               margin-top: 90px;
+               cursor: pointer;
+          }
+          
+          .ler:hover{
+               color: red;
+               background-color: #fff;
+               border: 3px solid red;
+               transition: 0.5s;
+          }
+          
+          .info-site{
+               margin-top: 300px;
+               width: 100%;
+               background-color: #F1F1F1;
+               padding-top: 10px;
+               padding-bottom: 10px;
+          } 

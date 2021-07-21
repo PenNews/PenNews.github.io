@@ -79,7 +79,8 @@
                /*1600x900.jpg*/
                background: URL(../Img/Image.jpg);
                background-size: cover;
-               border: none;
+               border: 1px solid #000;
+               cursor: pointer;
           }
 
           footer{

@@ -66,6 +66,7 @@
 
           .ad1{
                margin-top: 30px;
+               margin-bottom: 50px;
           }
 
           .adwere{
@@ -84,7 +85,7 @@
           }
 
           footer{
-               position: static;
+               position: absolute;
                bottom: 0px;
                width: 100%;
           }

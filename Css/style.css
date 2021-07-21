@@ -10,10 +10,10 @@
           .header{
                height: 60px;
                width: 100%;
-               
-               background-image: linear-gradient(red, orange, yellow, green, blue, purple);
                /*
-               background-color: red;*/
+               background-image: URL();
+               */
+               background-color: red;
                position: fixed;
           }
 

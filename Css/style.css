@@ -64,6 +64,24 @@
                transition: 0.5s;
           }
 
+          .ad1{
+               margin-top: 30px;
+          }
+
+          .adwere{
+               width: 300px;
+               height: 160px;
+          }
+
+          .ad{
+               height: 100%;
+               width: 100%;
+               /*1600x900.jpg*/
+               background: URL(../mini.jpg);
+               background-size: cover;
+               border: none;
+          }
+
           footer{
                position: absolute;
                bottom: 0px;

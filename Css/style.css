@@ -51,7 +51,13 @@
                border: 3px solid red;
                transition: 0.5s;
           }
-          
+
+          footer{
+               position: absolute;
+               bottom: 0px;
+               width: 100%;
+          }
+
           .info-site{
                margin-top: 300px;
                width: 100%;

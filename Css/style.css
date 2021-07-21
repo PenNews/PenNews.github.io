@@ -77,7 +77,7 @@
                height: 100%;
                width: 100%;
                /*1600x900.jpg*/
-               background: URL(../mini.jpg);
+               background: URL(../Img/Image.jpg);
                background-size: cover;
                border: none;
           }

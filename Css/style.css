@@ -83,9 +83,13 @@
                cursor: pointer;
           }
 
+          .footer{
+               width: 10%;
+          }
+
           .info-site{
                color: #8E8E8E;
-               width: 10%;
+               width: 100%;
                padding-top: 10px;
                padding-bottom: 10px;
           } 

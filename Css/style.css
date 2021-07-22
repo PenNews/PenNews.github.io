@@ -7,6 +7,10 @@
                font-family: sans-serif;
           }
           
+          .geral{
+               position:relative;
+          }
+
           .header{
                height: 60px;
                width: 100%;

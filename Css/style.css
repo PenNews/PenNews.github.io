@@ -54,6 +54,7 @@
                background-color: red;
                font-weight: bold;
                cursor: pointer;
+               margin-bottom: 100px;
           }
           
           .ler:hover{
@@ -64,8 +65,7 @@
           }
 
           .ad1{
-               margin-top: 30px;
-               margin-bottom: 100px;
+               margin-bottom: 60px;
           }
 
           .adwere{

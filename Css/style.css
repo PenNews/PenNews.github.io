@@ -42,7 +42,7 @@
           .subtitulo{
                color: #B2B2B2;
                margin-top: 10px;
-               margin-bottom: 25px;
+               margin-bottom: 50px;
           }
           
           .ler{
@@ -53,7 +53,6 @@
                color: #fff;
                background-color: red;
                font-weight: bold;
-               margin-top: 90px;
                cursor: pointer;
           }
           

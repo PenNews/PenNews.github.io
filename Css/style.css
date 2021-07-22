@@ -66,7 +66,7 @@
 
           .ad1{
                margin-top: 30px;
-               margin-bottom: 50px;
+               margin-bottom: 100px;
           }
 
           .adwere{
@@ -84,15 +84,8 @@
                cursor: pointer;
           }
 
-          .footer{
-               bottom: 0px;
-               width: 100%;
-          }
-
           .info-site{
                color: #8E8E8E;
-               width: 100%;
                padding-top: 10px;
                padding-bottom: 10px;
-               bottom: 0;
           } 

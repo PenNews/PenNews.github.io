@@ -1,0 +1,16 @@
+<html>
+<head>
+     <meta name="viewport" content="user-scalable=no, initial-scale=1.0, width=device-width, maximum-scale=1.0, minimal-ui"/>
+     <style>
+     * [1] The container */
+.img-hover-zoom { height: 30px; width: 50%;/* [1.1] Set it as per your need */ overflow: hidden; border: 2px solid #000; /* [1.2] Hide the overflowing of child elements */ } /* [2] Transition property for smooth transformation of images */
+.img-hover-zoom img { height: 100%;transition: transform .5s ease; } /* [3] Finally, transforming the image when container gets hovered */
+.img-hover-zoom:hover img { transform: scale(1.5); }
+     </style>
+</head>
+<body>
+     <div class="img-hover-zoom">
+          <img src="Img/poster.jpg" alt="This zooms-in really well and smooth">
+     </div>
+</body>
+</html>
